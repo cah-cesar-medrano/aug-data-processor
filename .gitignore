@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Don't track content of these folders
+data/
+.data/
+
 # C extensions
 *.so
 
